@@ -1,0 +1,40 @@
+body
+{
+background: url('background1.jpg');
+}
+
+canvas{
+    border:3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
+
+h4{
+    background-color: grey;
+    color: azure;
+    line-height: 2;
+
+}
+
+.modal-dailog{
+    width: 70%;
+
+}
+.moadal-body{
+    text-align: left;
+    font-size: 20px;
+}
+
+.heading button{
+    float: right;
+    border:1px solid white;
+
+}
+
+.heading h3{
+    display: inline;
+}
+
+#start,#status,#restart{
+    font-size: 22px;
+}
